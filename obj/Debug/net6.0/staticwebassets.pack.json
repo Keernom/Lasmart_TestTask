@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP.Net Exp\\ASP_Sandbox\\Lasmart_TestTask\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ASP.Net Exp\\ASP_Sandbox\\Lasmart_TestTask\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\ASP.Net Exp\\ASP_Sandbox\\Lasmart_TestTask\\wwwroot\\js\\comments_api.js",
+      "PackagePath": "staticwebassets\\js\\comments_api.js"
+    },
+    {
+      "Id": "D:\\ASP.Net Exp\\ASP_Sandbox\\Lasmart_TestTask\\wwwroot\\js\\dots_api.js",
+      "PackagePath": "staticwebassets\\js\\dots_api.js"
+    },
+    {
+      "Id": "D:\\ASP.Net Exp\\ASP_Sandbox\\Lasmart_TestTask\\wwwroot\\js\\draw.js",
+      "PackagePath": "staticwebassets\\js\\draw.js"
+    },
+    {
+      "Id": "D:\\ASP.Net Exp\\ASP_Sandbox\\Lasmart_TestTask\\wwwroot\\js\\konva.js",
+      "PackagePath": "staticwebassets\\js\\konva.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Lasmart_TestTask.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Lasmart_TestTask.props",
+      "PackagePath": "build\\Lasmart_TestTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Lasmart_TestTask.props",
+      "PackagePath": "buildMultiTargeting\\Lasmart_TestTask.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Lasmart_TestTask.props",
+      "PackagePath": "buildTransitive\\Lasmart_TestTask.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

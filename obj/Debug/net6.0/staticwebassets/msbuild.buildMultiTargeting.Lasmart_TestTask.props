@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lasmart_TestTask.props" />
+</Project>
